@@ -6,6 +6,7 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./title-page.component.scss']
 })
 export class TitlePageComponent implements OnInit {
+  imgSrc: any;
 
   constructor() { }
 
